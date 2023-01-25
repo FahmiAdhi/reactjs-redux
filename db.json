@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": 101,
+      "brand": "Honda",
+      "model": "Accord",
+      "price": "150"
+    },
+    {
+      "id": 106,
+      "brand": "Volvo",
+      "model": "C30",
+      "price": "250"
+    },
+    {
+      "id": 110,
+      "brand": "Tesla",
+      "model": "S",
+      "price": "450"
+    }
+  ]
+}
